@@ -1,0 +1,8 @@
+Origin: Lemon07 Repository
+Label: Lemon07 Repo
+Suite: stable
+Version: 7.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Lemon07 Example Repo
