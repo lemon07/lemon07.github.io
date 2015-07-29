@@ -3,10 +3,10 @@ Version: 20150726
 Architecture: iphoneos-arm
 Maintainer: keyson
 Filename: .//debs/com.lemon07.kuaidialhongkongblacklist07_20150726_iphoneos-arm.deb
-Size: 78016
-MD5sum: f06411f5852207ab55267e60f30f54c0
-SHA1: 4d119bc42df24a7caa590a35cc49fe9ca6b0d04a
-SHA256: 6f6fa887f5696dea2f86379e9cca33ff2cd685035debfe066939f061e50078eb
+Size: 77702
+MD5sum: 1893bb3a5c36f394c9310abc195d587a
+SHA1: 364dd79c402d1bfd55ee45cd03e0fb13564c3d49
+SHA256: 6bd55e793d175bc217d268bfae6b912d5212bf4721a0c0f94aeb641dc41febc5
 Section: other
 Description: KuaiDialHongKongBlackList07
 Author: keyson@outlook.com
@@ -19,9 +19,9 @@ Architecture: iphoneos-arm
 Maintainer: keyson
 Filename: .//debs/com.lemon07.iblacklisthongkongblacklist07_20150726_iphoneos-arm.deb
 Size: 265072
-MD5sum: 17d99d6acd4872949bfd8c737dbd5a43
-SHA1: 3629f2ac53b8e8bd283b1d9242bef97957f8ea2e
-SHA256: e2c2b98255542ce00d6d11bcda6c54e34438bcae3120262a7d003da257c44ed3
+MD5sum: 367ac7f854ddac6736990187ccc4554f
+SHA1: f0b8913c82629a6efd619e6e0a8776ccd50d00de
+SHA256: 6e9777af6697bb7d0a817dec8d118e0987f183eb08b61ab81b419446f549f354
 Section: other
 Description: iBlackListHongKongBlackList07
 Author: keyson@outlook.com
