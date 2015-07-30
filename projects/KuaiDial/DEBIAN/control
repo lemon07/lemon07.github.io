@@ -2,8 +2,8 @@ Package: com.lemon07.KuaiDialHongKongBlackList07
 Name: KuaiDialHongKongBlackList07
 Version: 20150726
 Architecture: iphoneos-arm
-Description: KuaiDialHongKongBlackList07
-Maintainer: keyson
-Author: keyson@outlook.com
-Sponsor: keyson@outlook.com
-Section: other
+Description: http://lemon07.github.io/
+Maintainer: keyson <keyson@outlook.com>
+Author: keyson <keyson@outlook.com>
+Sponsor: keyson <keyson@outlook.com>
+Section: HongKongBlackList
