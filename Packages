@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: keyson <keyson@outlook.com>
 Filename: .//debs/com.lemon07.colorapplebootlogo07_7.0_iphoneos-arm.deb
 Size: 7034
-MD5sum: 9c26120e7ebb25729aa883d329354c51
-SHA1: 7b061495cba22063fdf93cc7bb829cb396edd430
-SHA256: e2242cde731f71323352488bbfaba963e0611687a49fff04adf1ab20ae8d88c6
+MD5sum: a8d0678e6e3b800230a4b8074b1fd7a0
+SHA1: a90053117812310df08d4d0567e67639f7868ef1
+SHA256: 727451fd68007f20d2050f63a196ab7fcb39a029767d3193b09ef7bf39717215
 Section: Themes (springBoard)
 Homepage: http://lemon07.github.io/web/colorapplebootlogo07/
 Description: Themes (springBoard)
@@ -21,9 +21,9 @@ Architecture: iphoneos-arm
 Maintainer: keyson <keyson@outlook.com>
 Filename: .//debs/com.lemon07.colorapplebootlogo07ipadhd_7.0_iphoneos-arm.deb
 Size: 54078
-MD5sum: 13235cb3bf6b177712ea9cdc4301b196
-SHA1: 5c5b86c0035d746f0ebee24e81a978cc7adc781e
-SHA256: aa17511ac802faa15b780da8fff5291018e9023f8c85acee872a7c35ba074def
+MD5sum: efc5b40c0a77583bb2e4e30c31e677cb
+SHA1: e9f7d30923170d350cd2e4ecce8109a1dac6a1c8
+SHA256: 4140c223779788be2c7cb8bb88272d419e5a42bb87a20731a6abb6b40f3954a0
 Section: Themes (springBoard)
 Homepage: http://lemon07.github.io/web/colorapplebootlogo07ipadhd/
 Description: Themes (springBoard)
@@ -33,14 +33,14 @@ Name: ColorAppleBootLogo07iPadHD
 Sponsor: keyson <keyson@outlook.com>
 
 Package: com.lemon07.KuaiDialHongKongBlackList07
-Version: 20160809
+Version: 20160813
 Architecture: iphoneos-arm
 Maintainer: keyson <keyson@outlook.com>
-Filename: .//debs/com.lemon07.kuaidialhongkongblacklist07_20160809_iphoneos-arm.deb
-Size: 168646
-MD5sum: b830bbc34edfa6785db8830252cab159
-SHA1: b5465fa20c7266371a50248961827f319bb5a400
-SHA256: 78f09f7e117eacfec180b40716b8e54c66153e40a8f9d7e8ff309fac99582165
+Filename: .//debs/com.lemon07.kuaidialhongkongblacklist07_20160813_iphoneos-arm.deb
+Size: 172160
+MD5sum: 87750b1507d84c0cd4e0841f32f787fc
+SHA1: 5fbb1f23c2d0bb0fd43e2472b57413df2f974445
+SHA256: a150de2b618957eacb59a8d3708ac29f1fa19ddb4e7cd1f4cc53707b9022494f
 Section: HongKongBlackList
 Homepage: http://lemon07.github.io/web/kuaidialhongkongblacklist07/
 Description: HongKongBlackList
@@ -55,9 +55,9 @@ Architecture: iphoneos-arm
 Maintainer: keyson <keyson@outlook.com>
 Filename: .//debs/com.lemon07.love07_7.0_iphoneos-arm.deb
 Size: 7098
-MD5sum: fe9ece4e7fc9aa267ac942423bfdaa57
-SHA1: 6096027975698dd22e7fb098d70477d310c0ebb3
-SHA256: 77f4d5d070a537351949871732590e6056ac56e9a75985eb96291328ec965baf
+MD5sum: d00e028ceaca68e9df1a4d9affff9433
+SHA1: 70eede33d49c35bc99f3030a5ddb0d95213945ef
+SHA256: 86179c8739ac91a6e235b9d83e6d216665116d95bdaefeae9780ddcadd425c50
 Section: Themes (springBoard)
 Homepage: http://lemon07.github.io/web/love07/
 Description: Themes (springBoard)
@@ -72,9 +72,9 @@ Architecture: iphoneos-arm
 Maintainer: keyson <keyson@outlook.com>
 Filename: .//debs/com.lemon07.manchesterunited07_7.0_iphoneos-arm.deb
 Size: 23780
-MD5sum: 7c42d02d75bdacf3ca951285a35e2c74
-SHA1: 529f2b6e4bcc0050b91698db5d12ac7ddf28e77f
-SHA256: 6e3eb32c7f1755333cfb8af977ec031301e724bfe86024fc47aee4123abc2c61
+MD5sum: 1b852f6ba5363d9c86ef2aea5b2c612a
+SHA1: b255611c0d698fd02f02e7b5b8c79940b8763753
+SHA256: f32142e4a335a8b092c19e5f82731664744fdb9131c8a14087beac1276119577
 Section: Themes (springBoard)
 Homepage: http://lemon07.github.io/web/manchesterunited07/
 Description: Themes (springBoard)
@@ -89,9 +89,9 @@ Architecture: iphoneos-arm
 Maintainer: keyson <keyson@outlook.com>
 Filename: .//debs/com.lemon07.redapplebootlogo07_7.0_iphoneos-arm.deb
 Size: 5852
-MD5sum: d62c626b8849cce91ddcd97bfa314147
-SHA1: c6b383ad7fc0f82a160246ee2a96d05f787142f7
-SHA256: 128deb932fcb7e78acca9a98ac35f7abfb4828fe7c1be0305cb48c44457c5bef
+MD5sum: ad6e32b728718f2e779cb17496ba7785
+SHA1: f4bcada91b1ece3bb7cd1fb46a2a690f3ea32749
+SHA256: ff9efb00e253335e62c6824b20b2075e058270c00d0ae168301471b078dd0d77
 Section: Themes (springBoard)
 Homepage: http://lemon07.github.io/web/redapplebootlogo07/
 Description: Themes (springBoard)
@@ -106,9 +106,9 @@ Architecture: iphoneos-arm
 Maintainer: keyson <keyson@outlook.com>
 Filename: .//debs/com.lemon07.round07_7.0_iphoneos-arm.deb
 Size: 303546
-MD5sum: 95fb861ea12f402e36ba46307eb2dfc8
-SHA1: 917264be5382d78cd027006cbd09d7c945b9f9fd
-SHA256: b37b51668aa586f16e408d574f0fd7d8d745f7156c6c4657b8cbda3ddb4b0267
+MD5sum: 5b4751ee34042404c25cc3bbc21f030c
+SHA1: eee648016599df77551a3e48f00a58d67e060eea
+SHA256: 0944d81072a585e847b04d8a31eed5c2ffbc840913667332384f46b66c32f425
 Section: Themes (springBoard)
 Homepage: http://lemon07.github.io/web/round07/
 Description: Themes (springBoard)
@@ -123,9 +123,9 @@ Architecture: iphoneos-arm
 Maintainer: keyson <keyson@outlook.com>
 Filename: .//debs/com.lemon07.round07ipadhd_7.0_iphoneos-arm.deb
 Size: 374242
-MD5sum: c76ffaa7262d69483b12d6be04a90b4d
-SHA1: c9d3ef27dee16123441456964d035fa7248cc134
-SHA256: 4808e4aae95711c72748fccf400a9249e35d7c69ab8f0d37e9b8b9a512913287
+MD5sum: 0da49fa044bbf66258881a4351d93c69
+SHA1: b61104dd9526b64c729d5261d3cd41a0befc6c9f
+SHA256: 96564fa147ef7c1bb19eb30c216da22dcaeb4d1a98a07d074dbb978ead70d3d7
 Section: Themes (springBoard)
 Homepage: http://lemon07.github.io/web/round07ipadhd/
 Description: Themes (springBoard)
@@ -140,9 +140,9 @@ Architecture: iphoneos-arm
 Maintainer: keyson <keyson@outlook.com>
 Filename: .//debs/com.lemon07.star07_7.0_iphoneos-arm.deb
 Size: 6194
-MD5sum: 08a382bca6ca8d2d8248b9b0ed00885b
-SHA1: 32f504c43069188ee6e0ed8400b03711179dff7a
-SHA256: 8452e670db003249cdce6fdc7994765ef8d8a5fc7c990ebf4a55447057a0abb2
+MD5sum: 2f97c8d4f22048d30cb39ff096a6303a
+SHA1: 1b6e2af1457c968d18ef04dcc7731a735ee43ea3
+SHA256: 9c2caed99124b8315115fbbb8fed778b3c55bbe4b56a58170dffab1ab4a54b74
 Section: Themes (springBoard)
 Homepage: http://lemon07.github.io/web/star07/
 Description: Themes (springBoard)
@@ -157,9 +157,9 @@ Architecture: iphoneos-arm
 Maintainer: keyson <keyson@outlook.com>
 Filename: .//debs/com.lemon07.starbootlogo07_7.0_iphoneos-arm.deb
 Size: 7482
-MD5sum: 034d55e01bd80aae379492f5ae37abc5
-SHA1: 6f1fe756e7f8407ba02193340b041709a93e6f39
-SHA256: a3f93b26229512ef7d36d8e636e9b961aa80b8505782c07e3d606c370bac83b2
+MD5sum: e56cf6e980a62cd48a53e7c2d6e3a2de
+SHA1: 132541433d9378a61cfeceba50e1c9087599d77c
+SHA256: c6c83ee02507673427cdfd9a35562fac3ded6e786c2c26747bf5be8686951192
 Section: Themes (springBoard)
 Homepage: http://lemon07.github.io/web/starbootlogo07/
 Description: Themes (springBoard)
@@ -174,9 +174,9 @@ Architecture: iphoneos-arm
 Maintainer: keyson <keyson@outlook.com>
 Filename: .//debs/com.lemon07.starwifi07_7.0_iphoneos-arm.deb
 Size: 21526
-MD5sum: 0f1e6e924110c31074aab443734c5009
-SHA1: 8175237e22d250af24302e70e641091775f7d20b
-SHA256: cc7cf9e336edd7a8d1b723f3e045e018cecd9efafc1cf15ff3ec24955bf5f7f6
+MD5sum: fc5d9b88e975b2dcb0390df960804fac
+SHA1: 9106c5ed8d629a44d97aaa507e8065453892bbe5
+SHA256: 95deae2c468966f931d35a4d84070e37979b87d133cc51567ffad2884346eb91
 Section: Themes (springBoard)
 Homepage: http://lemon07.github.io/web/starwifi07/
 Description: Themes (springBoard)
@@ -186,14 +186,14 @@ Name: STARWifi07
 Sponsor: keyson <keyson@outlook.com>
 
 Package: com.lemon07.iBlackListHongKongBlackList07
-Version: 20160809
+Version: 20160813
 Architecture: iphoneos-arm
 Maintainer: keyson <keyson@outlook.com>
-Filename: .//debs/com.lemon07.iblacklisthongkongblacklist07_20160809_iphoneos-arm.deb
-Size: 285404
-MD5sum: 7070930b92d8b229fae53d0005ff9f64
-SHA1: 50b57aecc5d61bd6359389347583a75a6f80cabc
-SHA256: edd3ca033b91656baeeefbf0c4e352cab32a9258fcce3730ade6e7f3a41771d7
+Filename: .//debs/com.lemon07.iblacklisthongkongblacklist07_20160813_iphoneos-arm.deb
+Size: 284998
+MD5sum: fee888efd4f85569b7589ca7c6cc0af7
+SHA1: aaa0d8fb20c60ccffe3386733f2d1e648b116d03
+SHA256: 038205aefbaf33c33190214516e00eec2a1ae2663b4aa337f5c723f7e10d54cb
 Section: HongKongBlackList
 Homepage: http://lemon07.github.io/web/iblacklisthongkongblacklist07/
 Description: HongKongBlackList
